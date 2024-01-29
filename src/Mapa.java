@@ -36,4 +36,4 @@ public class Mapa {
     public Posicion getPosTablero() {
         return posTablero;
     }
-}
+}s
